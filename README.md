@@ -1,5 +1,25 @@
 ## Hi there 👋
 
+I'm Marcel, a 25-year-old learning, building, and growing as a front-end developer—one project at a time.
+
+I mostly work on Front End stuff using HTML, CSS & JavaScript basics.
+Next up: Learning Intermediate JavaScript, Tailwind, SCSS, and Vue.js.
+
+Self-taught Webflow Developer, with a few personal projects created just for fun:relieved:
+
+------
+
+Tools & Tech
+- HTML, CSS, JavaScript Basics
+- Coming soon (Intermediate JavaScript, Tailwind, SCSS, and Vue.js)
+
+------
+
+A Bit About Me
+- :weight_lifting_man:Part-time human, full-time gym enthusiast
+- :video_game:Controller whisperer since 2000
+- :film_strip:Movie lover
+
 <!--
 **marcel-webdev/marcel-webdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
