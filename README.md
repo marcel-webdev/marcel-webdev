@@ -5,7 +5,7 @@ I'm Marcel, a 25-year-old learning, building, and growing as a front-end develop
 I mostly work on Front End stuff using HTML, CSS & JavaScript basics.  
 Next up: Learning Intermediate JavaScript, Tailwind, SCSS, and Vue.js.
 
-Self-taught Webflow Developer, with a few personal projects created just for fun	:relieved:
+Self-taught Webflow Developer, with a few personal projects created just for fun.
 
 ------
 
