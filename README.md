@@ -1,4 +1,4 @@
-Hi there 👋
+##**Hi there** 👋
 
 I'm Marcel, a 25-year-old learning, building, and growing as a front-end developer—one project at a time.
 
@@ -9,13 +9,13 @@ Self-taught Webflow Developer, with a few personal projects created just for fun
 
 ------
 
-Tools & Tech
+##**Tools & Tech**
 - HTML, CSS, JavaScript Basics
 - Coming soon (Intermediate JavaScript, Tailwind, SCSS, and Vue.js)
 
 ------
 
-A Bit About Me
+##**A Bit About Me**
 - :weight_lifting_man:Part-time human, full-time gym enthusiast
 - :video_game:Controller whisperer since 2000
 - :film_strip:Movie lover
