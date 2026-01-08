@@ -1,4 +1,4 @@
-## Hi there 👋
+Hi there 👋
 
 I'm Marcel, a 25-year-old learning, building, and growing as a front-end developer—one project at a time.
 
