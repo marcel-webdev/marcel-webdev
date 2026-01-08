@@ -7,13 +7,9 @@ Next up: Learning Intermediate JavaScript, Tailwind, SCSS, and Vue.js.
 
 Self-taught Webflow Developer, with a few personal projects created just for fun.
 
-------
-
 ## **Tools & Tech**
 - HTML, CSS, JavaScript Basics
 - Coming soon (Intermediate JavaScript, Tailwind, SCSS, and Vue.js)
-
-------
 
 ## **A Bit About Me**
 - :weight_lifting_man:Part-time human, full-time gym enthusiast
